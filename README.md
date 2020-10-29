@@ -51,7 +51,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="nickey's GitHub Stats" src="https://github-readme-stats.niklasschaeffer.vercel.app/api?username=niklasschaeffer&show_icons=true&hide_border=true" />
+  <img align="left" alt="nickey's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=niklasschaeffer&show_icons=true&hide_border=true" />
 
 </details>
 
