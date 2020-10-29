@@ -1,6 +1,6 @@
 ### Hi there, I'm Niklas - [website] 👋
 
-[![Website](https://img.shields.io/website?label=nickey.dev&style=for-the-badge&url=https%3A%2F%2Fnickey.dev%2F)](https://nickey.dev)
+[![Website](https://img.shields.io/website?label=nickey.dev&style=for-the-badge&url=https%3A%2F%2Fnickey.de)](https://nickey.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/niklasschaeffer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fniklasschaeffer&screen_name=niklasschaeffer)
 
 ## I'm a Father and Developer
