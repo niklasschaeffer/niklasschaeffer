@@ -49,10 +49,13 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
+  <summary>:zap: My GitHub Stats</summary>
   <img align="left" alt="nickey's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=niklasschaeffer&show_icons=true&hide_border=true" />
+</details>
 
+<details>
+ <summary>:zap: My WakaTime Stats</summary>
+<figure><embed src="https://wakatime.com/share/@NickeyGod/8f580a60-b492-4f1c-a6c9-c603d4848943.svg"></embed></figure>
 </details>
 
 [website]: https://nickey.dev
