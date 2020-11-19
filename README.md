@@ -55,7 +55,7 @@
 
 <details>
  <summary>:zap: My WakaTime Stats</summary>
-<figure><embed src="https://wakatime.com/share/@NickeyGod/8f580a60-b492-4f1c-a6c9-c603d4848943.svg"></embed></figure>
+<img align="left" alt="nickey's Wakatime Stats" src="https://wakatime.com/share/@NickeyGod/8f580a60-b492-4f1c-a6c9-c603d4848943.svg"></img>
 </details>
 
 [website]: https://nickey.dev
