@@ -1,14 +1,18 @@
-### Hi there, I'm Niklas - [website] 👋
+<h1 align="left">Hi 👋, I'm Niklas Schäffer</h1>
+<h3 align="left">A passionate frontend developer from Germany</h3>
+
+<br/>
 
 [![Website](https://img.shields.io/website?label=nickey.dev&style=for-the-badge&url=https%3A%2F%2Fnickey.dev)](https://nickey.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/niklasschaeffer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fniklasschaeffer&screen_name=niklasschaeffer)
 
 ## I'm a Father and Developer
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other programmers
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play video games and ride motorcycles
+- 🌱 I’m currently learning **Inertia.js**
+- 👯 I’m looking to collaborate on **with other programmers**
+- 💬 Ask me about **vue.js**
+- 📫 How to reach me **niklass.schaeffer@gmail.com**
+- ⚡ Fun fact **I love to play video games and ride motorcycles**
 
 ### Spotify Playing 🎧
 
@@ -17,8 +21,10 @@
 ### Connect with me:
 
 <p align="left">
+<a href="https://dev.to/niklasschaeffer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="niklasschaeffer" height="30" width="40" /></a>
 <a href="https://twitter.com/niklasschaeffer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niklasschaeffer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/niklasschaeffer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niklasschaeffer" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/5630528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5630528" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:
@@ -28,8 +34,3 @@
 ---
 
 [![niklas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nickey&api_domain=nickey.dev:3000&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[website]: https://nickey.dev
-[twitter]: https://twitter.com/niklasschaeffer
-[instagram]: https://instagram.com/nickeygod
-[linkedin]: https://linkedin.com/in/niklasschaeffer
