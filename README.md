@@ -53,12 +53,7 @@
   <img align="left" alt="nickey's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=niklasschaeffer&count_private=true&show_icons=true&hide_border=true" />
 </details>  
 
-[![niklas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nickey&api_domain=nickey.dev:3000&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
-
-<details>
- <summary>:zap: My WakaTime Stats</summary>
-<img align="left" alt="nickey's Wakatime Stats" src="https://wakatime.com/share/@NickeyGod/8f580a60-b492-4f1c-a6c9-c603d4848943.svg"></img>
-</details>
+[niklas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nickey&api_domain=nickey.dev:3000&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
 
 [website]: https://nickey.dev
 [twitter]: https://twitter.com/niklasschaeffer
