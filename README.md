@@ -9,7 +9,7 @@
 ## I'm a Father and Developer
 
 - 🌱 I’m currently learning **Inertia.js**
-- 👯 I’m looking to collaborate on **with other programmers**
+- 👯 I’m looking to collaborate **with other programmers**
 - 💬 Ask me about **vue.js**
 - 📫 How to reach me **niklass.schaeffer@gmail.com**
 - ⚡ Fun fact **I love to play video games and ride motorcycles**
