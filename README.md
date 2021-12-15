@@ -6,9 +6,9 @@
 [![Website](https://img.shields.io/website?label=nickey.dev&style=for-the-badge&url=https%3A%2F%2Fnickey.dev)](https://nickey.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/niklasschaeffer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fniklasschaeffer&screen_name=niklasschaeffer)
 
-## I'm a Father and Developer
+## I'm a Beloving Father and Developer
 
-- 🌱 I’m currently learning **Inertia.js**
+- 🌱 I’m currently learning **Typescript**
 - 👯 I’m looking to collaborate **with other programmers**
 - 💬 Ask me about **vue.js**
 - 📫 How to reach me **niklass.schaeffer@gmail.com**
