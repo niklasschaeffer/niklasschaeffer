@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **vue, laravel, inertiajs**
 
-- 📫 How to reach me **niklass.schaeffer@gmail.com niklas@schaeffer.it**
+- 📫 How to reach me **niklass.schaeffer@gmail.com me@nickey.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
