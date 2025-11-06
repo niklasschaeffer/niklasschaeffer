@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/niklasschaeffer" target="blank"><img src="https://img.shields.io/twitter/follow/niklasschaeffer?logo=twitter&style=for-the-badge" alt="niklasschaeffer" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript, Vue.js, Inertia.js**
+- 🌱 I’m currently learning **Typescript, React, Prisma, PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [https://www.nickey.dev](https://www.nickey.dev)
+- 👨‍💻 All of my projects are available at [https://www.nickey.dev](https://www.nickey.dev) or [https://nx-solutions.de](https://nx-solutions.de)
 
-- 💬 Ask me about **vue, laravel, inertiajs**
+- 💬 Ask me about **typescript, react**
 
-- 📫 How to reach me **niklass.schaeffer@gmail.com me@nickey.dev**
+- 📫 How to reach me **me@nickey.dev niklas@nx-solutions.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
