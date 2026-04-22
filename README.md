@@ -30,6 +30,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niklasschaeffer&show_icons=true&locale=en" alt="niklasschaeffer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niklasschaeffer&" alt="niklasschaeffer" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=niklasschaeffer&" alt="niklasschaeffer" /></p>
 
-<p><img align="center" src="https://tokscale.ai/api/embed/niklasschaeffer/svg" alt="niklasschaeffer" /></p>
+<p><img align="right" src="https://tokscale.ai/api/embed/niklasschaeffer/svg" alt="niklasschaeffer" /></p>
