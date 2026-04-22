@@ -32,4 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niklasschaeffer&" alt="niklasschaeffer" /></p>
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/niklasschaeffer/svg)](https://tokscale.ai/u/niklasschaeffer)
+<p><img align="center" src="https://tokscale.ai/api/embed/niklasschaeffer/svg" alt="niklasschaeffer" /></p>
