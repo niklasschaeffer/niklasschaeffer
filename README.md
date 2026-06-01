@@ -10,7 +10,8 @@
   <a href="mailto:me@nickey.dev"><img src="https://img.shields.io/badge/Email-me@nickey.dev-ea4335?style=flat-square&logo=gmail&logoColor=white&labelColor=161b22" /></a>
   <a href="https://linkedin.com/in/niklasschaeffer"><img src="https://img.shields.io/badge/LinkedIn-niklasschaeffer-0a66c2?style=flat-square&logo=linkedin&logoColor=white&labelColor=161b22" /></a>
   <a href="https://github.com/niklasschaeffer"><img src="https://img.shields.io/badge/GitHub-niklasschaeffer-6e7681?style=flat-square&logo=github&logoColor=white&labelColor=161b22" /></a>
-  <a href="https://chronova.dev/users/niklasschaeffer"><img src="https://img.shields.io/badge/Chronova-Profile-8b5cf6?style=flat-square&logo=clockify&logoColor=white&labelColor=161b22" /></a>
+  <a href="https://chronova.dev/u/niklasschaeffer"><img src="https://img.shields.io/badge/Chronova-Profile-8b5cf6?style=flat-square&logo=clockify&logoColor=white&labelColor=161b22" /></a>
+  <a href="https://chronova.dev/u/niklasschaeffer"><img src="https://chronova.dev/api/badge/time?username=niklasschaeffer&style=flat-square" alt="Chronova Stats" /></a>
 </p>
 
 <p align="center">
