@@ -11,7 +11,11 @@
   <a href="https://linkedin.com/in/niklasschaeffer"><img src="https://img.shields.io/badge/LinkedIn-niklasschaeffer-0a66c2?style=flat-square&logo=linkedin&logoColor=white&labelColor=161b22" /></a>
   <a href="https://github.com/niklasschaeffer"><img src="https://img.shields.io/badge/GitHub-niklasschaeffer-6e7681?style=flat-square&logo=github&logoColor=white&labelColor=161b22" /></a>
   <a href="https://chronova.dev/users/niklasschaeffer"><img src="https://img.shields.io/badge/Chronova-Profile-8b5cf6?style=flat-square&logo=clockify&logoColor=white&labelColor=161b22" /></a>
-  <a href="https://chronova.dev/u/niklasschaeffer"><img src="https://chronova.dev/api/badge/time?username=niklasschaeffer&style=flat-square" alt="Chronova Stats" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/niklasschaeffer?style=flat-square&labelColor=161b22&color=1f6feb&logoColor=white&label=Followers" />
+  <img src="https://img.shields.io/github/public-repos/niklasschaeffer?style=flat-square&labelColor=161b22&color=1f6feb&logoColor=white&label=Repos" />
 </p>
 
 ---
@@ -24,27 +28,17 @@
 
 ---
 
-### 🏆 GitHub Trophy
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=niklasschaeffer&theme=github_dark&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=niklasschaeffer&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=niklasschaeffer&theme=github-dark-blue&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="100%" />
 </p>
 
 ---
 
 ### ⏱ Coding Activity
 
-> **120+ hrs coded · 89% AI-assisted · 40+ languages**
+> **120+ hrs coded · 89% AI-assisted · 40+ languages · 29 projects**
 
 <p align="center">
   <img src="https://tokscale.ai/api/embed/niklasschaeffer/svg?theme=dark&color=1f6feb&graph=1&rank=total&tokens=full&cost=full" alt="Tokscale Stats" width="100%" />
