@@ -12,4 +12,6 @@ Full-stack developer & infrastructure engineer from Germany
 
 ---
 
+[![Tokscale Stats](https://tokscale.ai/api/embed/niklasschaeffer/svg?theme=light&color=blue&graph=1&rank=total&tokens=full&cost=full)](https://tokscale.ai/u/niklasschaeffer)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasschaeffer&layout=compact&hide_border=true" alt="Top Langs" />
